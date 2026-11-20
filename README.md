@@ -1,5 +1,11 @@
-This project invovles the learning of java from the scratch. For now it includes printing my name,goal of this project, and today's date.
+# Learning Java Programming
 
-Inorder to run the file type this in terminal.
+This project involves the learning of java from scratch. For now it includes printing my name,goal of this project, and today's date.
+
+# How to run 
+
+In order to run the file type this in terminal.
+```
 javac Hello.java
 java Hello
+```
