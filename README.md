@@ -8,3 +8,5 @@ In order to run the file type this in terminal.
 javac Hello.java
 java Hello
 ```
+
+Author: Aryan Varma
