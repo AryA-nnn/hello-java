@@ -10,3 +10,7 @@ java Hello
 ```
 
 Author: Aryan Varma
+
+## About Me
+
+I am Aryan Varma, I recently graduated with a degree in Computer Science Engineering and currently i'm working of shrapening my skills in java.
